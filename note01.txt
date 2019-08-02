@@ -19,5 +19,5 @@ pwd 查詢當前目錄夾路徑
 ll 或ls 查詢目錄 -al含隠藏目錄及檔案
 git init 初始化倉庫
 git add 增加至暫存區
-
+git branch
 
